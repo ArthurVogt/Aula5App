@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Aula5App</string>
+    <string-array name="uf">
+        <item>RS</item>
+        <item>RJ</item>
+        <item>SP</item>
+    </string-array>
+    <string-array name="RS">
+        <item>Porto Alegre</item>
+        <item>Santa Cruz do Sul</item>
+        <item>Venâncio Aires</item>
+    </string-array>
+    <string-array name="SP">
+        <item>São Paulo</item>
+        <item>Santos</item>
+        <item>Sorocaba</item>
+    </string-array>
+    <string-array name="RJ">
+        <item>Rio de Janeiro</item>
+        <item>São Gonçalo</item>
+        <item>Nova Iguaçu</item>
+    </string-array>
 </resources>
